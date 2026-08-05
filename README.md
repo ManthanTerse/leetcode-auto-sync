@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/ManthanTerse/leetcode-auto-sync/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/ManthanTerse/leetcode-auto-sync/tree/master/0877-stone-game) |
 | [1929-concatenation-of-array](https://github.com/ManthanTerse/leetcode-auto-sync/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -30,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ManthanTerse/leetcode-auto-sync/tree/master/0877-stone-game) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/ManthanTerse/leetcode-auto-sync/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/ManthanTerse/leetcode-auto-sync/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/ManthanTerse/leetcode-auto-sync/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
