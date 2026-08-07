@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/ManthanTerse/leetcode-auto-sync/tree/master/0645-set-mismatch) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ManthanTerse/leetcode-auto-sync/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
