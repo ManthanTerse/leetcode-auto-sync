@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ManthanTerse/leetcode-auto-sync/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ManthanTerse/leetcode-auto-sync/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/ManthanTerse/leetcode-auto-sync/tree/master/0877-stone-game) |
 | [1929-concatenation-of-array](https://github.com/ManthanTerse/leetcode-auto-sync/tree/master/1929-concatenation-of-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ManthanTerse/leetcode-auto-sync/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ManthanTerse/leetcode-auto-sync/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
